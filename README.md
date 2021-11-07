@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me "mustafa.elgezery@gmail.com"
+- 📫 How to reach me .....
 
 <!---
 moustafa-hasan/moustafa-hasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
