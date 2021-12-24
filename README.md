@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moustafa-hasan
-- 👀 I’m interested in data scientist
+- 👀 I’m interested in data scientist and machine learning 
 - 🌱 I’m currently learning ML advanced techniques!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .....
